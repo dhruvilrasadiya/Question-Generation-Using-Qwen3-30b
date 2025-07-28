@@ -1,0 +1,10 @@
+BeautifulSoup4
+sqlalchemy
+psycopg2-binary
+langchain-ollama
+langchain-postgres
+langchain-text-splitters
+langchain-community
+confluent-kafka
+python-multipart
+kafka-python
